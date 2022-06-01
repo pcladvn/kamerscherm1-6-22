@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://pcladvn.github.io/kamerscherm1-6-22/annotations/e3981e7d0216ae8482dc1f7d08baedf3.json" ],
+  "@id" : "https://pcladvn.github.io/kamerscherm1-6-22/annotations/collection.json",
+  "label" : "All annotations loaded in pcladvn/kamerscherm1-6-22 project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
